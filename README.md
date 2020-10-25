@@ -1,10 +1,8 @@
 # KNN_breast_cancer_artificial_intelligence
  KNN_breast_cancer_artificial_intelligence
+ ![](logo-UCI.gif)[https://archive.ics.uci.edu/ml/index.html]
  
 # To Run MATLab Logistic Regression
-[![N|Solid](https://archive.ics.uci.edu/ml/index.html)](https://nodesource.com/products/nsolid)
-
-![](logo-UCI.gif)(https://archive.ics.uci.edu/ml/index.html)
 
  ```sh
 $ run breast_cancer.m
