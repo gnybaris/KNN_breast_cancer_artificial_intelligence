@@ -1,4 +1,5 @@
-# KNN_breast_cancer_artificial_intelligence
+# Breast cancer detection with KNN algorithm
+# Artificial Intelligence - Breast Cancer
 
 # To Run Artificial Iintelligence
 ## It is an artificial intelligence study that gives results with 98 percent accuracy in the detection of breast cancer with the help of the KNN algorithm. The project was completed in October 2020. You may get errors on the code due to updates to the libraries in the future. It will be enough to change the library paths.
