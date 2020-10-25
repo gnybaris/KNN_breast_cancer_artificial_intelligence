@@ -1,11 +1,9 @@
 # KNN_breast_cancer_artificial_intelligence
 
- ![](logo-UCI.gif)
-## UCI for breast cancer : [https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(original)]
  
 # To Run MATLab Logistic Regression
 ![](matlab_değerleri_Lojistik_Regresyon.png)
-#### Run
+### Run
 ```sh
 $ run breast_cancer.m
 ```
@@ -16,7 +14,11 @@ $ run breast_cancer.m
 
 
 ![](cancer-test2.png)
-#### Run
+### Run
  ```sh
 $ python cancer-test.py
 ```
+### In this project, UCI data were used to train artificial intelligence.
+
+            ![](logo-UCI.gif)
+## UCI for breast cancer : [https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(original)]
