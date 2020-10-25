@@ -10,6 +10,10 @@ $ run breast_cancer.m
 ```
 # To Run Artificial Iintelligence
 ![](cancer-test2.png)
+
+### 4 --> Malignant (Kötü Huylu Kanser Hücresi)
+### 2 --> Benign (İyi Huylu Kanser Hücresi)
+
  ```sh
 $ python cancer-test.py
 ```
