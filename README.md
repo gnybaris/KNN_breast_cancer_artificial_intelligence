@@ -5,7 +5,7 @@
 ## UCI for breast cancer : [https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(original)]
  
 # To Run MATLab Logistic Regression
-![](Gögüs_Kanseri_Testi\Lojistik_Regresyon\matlab_değerleri_Lojistik_Regresyon.png)
+![](matlab_değerleri_Lojistik_Regresyon.png)
  ```sh
 $ run breast_cancer.m
 ```
