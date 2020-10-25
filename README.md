@@ -5,7 +5,8 @@
  
 # To Run MATLab Logistic Regression
 ![](matlab_değerleri_Lojistik_Regresyon.png)
- ```sh
+#### Run
+```sh
 $ run breast_cancer.m
 ```
 # To Run Artificial Iintelligence
@@ -15,7 +16,7 @@ $ run breast_cancer.m
 
 
 ![](cancer-test2.png)
-
+#### Run
  ```sh
 $ python cancer-test.py
 ```
