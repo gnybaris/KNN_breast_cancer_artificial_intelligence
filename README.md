@@ -3,7 +3,8 @@
  
 # To Run MATLab Logistic Regression
 [![N|Solid](https://archive.ics.uci.edu/ml/index.html)](https://nodesource.com/products/nsolid)
-![GitHub Logo](logo-UCI.gif)
+
+![](logo-UCI.gif)
 
  ```sh
 $ run breast_cancer.m
