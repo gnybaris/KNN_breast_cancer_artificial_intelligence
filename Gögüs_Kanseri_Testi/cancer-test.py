@@ -5,6 +5,9 @@ Created on Sun Oct 25 23:04:18 2020
 @author: PC 
 
 @gnybaris
+
+https://github.com/gnybaris/KNN_breast_cancer_artificial_intelligence
+
 """
 import numpy as np
 import pandas as pd
@@ -58,9 +61,10 @@ type(tahminler.predict(hasta))
 
 print(tahminler.predict(hasta))
 
+#https://github.com/gnybaris/KNN_breast_cancer_artificial_intelligence
 
 
-
+#https://github.com/gnybaris
 
 
 
