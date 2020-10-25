@@ -1,6 +1,5 @@
 # KNN_breast_cancer_artificial_intelligence
- KNN_breast_cancer_artificial_intelligence
- 
+
  ![](logo-UCI.gif)
 ## UCI for breast cancer : [https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(original)]
  
