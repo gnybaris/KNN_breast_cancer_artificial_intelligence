@@ -18,6 +18,6 @@ $ python cancer-test.py
 $ run breast_cancer.m
 ```
 
-## In this project, UCI data were used to train artificial intelligence.
+## In this project, UCI Machine Learning Repository  data were used to train artificial intelligence.
 ![](logo-UCI.gif)
 - UCI for breast cancer : [https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(original)]
