@@ -37,6 +37,7 @@ distance is known as Euclidean distance [7]. The limitation of the K-NN algorith
 configuration of the data. The process of transforming the input data to a set of features is known as Feature
 extraction. In Feature space, extraction is taken place on raw data before applying K-NN algorithm. The below
 narrates the steps involved in a K-NN algorithm.
+```sh
 Start
 ↓
 Initialization, define the parameter
@@ -52,6 +53,7 @@ Gather the category of nearest neighbour
 Apply simple majority of category
 ↓
 End
+```
 
 ## In this project, UCI Machine Learning Repository  data were used to train artificial intelligence.
 ![](logo-UCI.gif)
