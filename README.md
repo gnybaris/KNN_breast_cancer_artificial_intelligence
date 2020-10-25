@@ -9,7 +9,7 @@
 $ run breast_cancer.m
 ```
 # To Run Artificial Iintelligence
-![](cancer-test.png)
+![](cancer-test2.png)
  ```sh
 $ python cancer-test.py
 ```
