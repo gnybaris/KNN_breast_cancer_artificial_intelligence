@@ -1,5 +1,5 @@
 # Breast cancer detection with KNN algorithm 
-![](Large14.jpg) [Fig 1.]
+![](Large14.jpg)
 
 # K-Nearest Neighbour Classification
 In pattern recognition, the K-Nearest Neighbor algorithm (K-NN) is a non-parametric method used
