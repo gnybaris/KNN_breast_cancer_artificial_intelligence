@@ -1,5 +1,5 @@
 # Breast cancer detection with KNN algorithm 
-![](uci_genomic_technology.png)
+![](uci_genomic.png) ![](Large14.jpg) 
 
 # K-Nearest Neighbour Classification
 The k-nearest neighborhood (KNN) algorithm is one of the easy-to-implement supervised learning algorithms. It is used in the solution of both classification and regression problems, and is used in industry to solve classification problems in industry.
