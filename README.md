@@ -1,46 +1,36 @@
 # Breast cancer detection with KNN algorithm 
+![](Large14.jpg)
 
 # K-Nearest Neighbour Classification
+The k-nearest neighborhood (KNN) algorithm is one of the easy-to-implement supervised learning algorithms. It is used in the solution of both classification and regression problems, and is used in industry to solve classification problems in industry.
+
+
 In pattern recognition, the K-Nearest Neighbor algorithm (K-NN) is a non-parametric method used
 for classification and regression. In both cases, the input consists of the K closest training examples in the feature
 space. K-NN is a type of instance-based learning.
 In K-NN Classification, the output is a class membership. Classification is done by a majority vote of
 neighbours. If K = 1, then the class is single nearest neighbour [6]. 
 
-![](knn.png) [Fig 1.]
+![](knn.png)
+KNN algorithms were proposed by T. M. Cover and P. E. Hart in 1967. The algorithm is used by making use of data from a sample set whose classes are known. The distance of the new data to be included in the sample data set is calculated according to the existing data and k number of close neighborhoods are checked. Generally, 3 types of distance functions are used for distance calculations:
+"Euclidean" Distance
+Distance to "Manhattan"
+"Minkowski" is the Distance.
 
-A test sample classification is shown in the above Fig 1. Consider the test sample is a big dot located inside the
-circles which is classified either to the first class of triangles or to the second class of squares. If K=5 (dashed line
-circle) it is assigned to the second class because there are 3 squares and 2 triangles inside that circle. If K=3 (solid
-line circle) it is assigned to the second class because here 2 squares and 1 triangle inside that circle. It can be useful
-if the weight contributions of the neighbours are considered because the nearer neighbours contribute more than the
-distant ones. For example, in a common weighting scheme, individual neighbour is assigned to a weight of 1/d if
-d is the distance to the neighbour. The shortest distance between any two neighbours is always a straight line and the
-distance is known as Euclidean distance [7]. The limitation of the K-NN algorithm is it’s sensitive to the local
-configuration of the data. The process of transforming the input data to a set of features is known as Feature
-extraction. In Feature space, extraction is taken place on raw data before applying K-NN algorithm. The below
-narrates the steps involved in a K-NN algorithm.
+KNN; It is one of the most popular machine learning algorithms because it is resistant to old, simple and noisy training data. However, it also has a disadvantage. For example, it requires a large amount of memory space when used for large data, since it stores all states while calculating distance.
+
+#### Steps of the KNN algorithm:
 ```sh
-Start
-↓
-Initialization, define the parameter
-↓
-Calculate the distance between the test sample and all the training samples.
-↓
-Sort the Distance
-↓
-Take K-nearest neighbour
-↓
-Gather the category of nearest neighbour
-↓
-Apply simple majority of category
-↓
-End
+- First, the k parameter is determined. This parameter is the number of neighbors closest to a given point. For example: Let k = 2. In this case, classification will be made according to the closest 2 neighbors.
+- The distance of the new data to be included in the sample data set is calculated one by one according to the existing data. With the help of the relevant distance functions.
+- The nearest neighbors from the relevant distances are considered. It is assigned to the class of k neighbors or neighbors according to the attribute values.
+- The selected class is considered to be the class of the observation value expected to be estimated. In other words, the new data is labeled.
 ```
+![](classification_knn.png)
 
 # To Run MATLab Logistic Regression
 ![](matlab_değerleri_Lojistik_Regresyon.png)
-![](matlab_değerleri_Lojistik_Regresyon2.png)
+![](Lojistik_Regresyon2.png)
 
 ### Run
 ```sh
