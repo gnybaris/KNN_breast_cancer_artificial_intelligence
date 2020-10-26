@@ -40,7 +40,7 @@ End
 
 # To Run MATLab Logistic Regression
 ![](matlab_değerleri_Lojistik_Regresyon.png)
-![](matlab_değerleri_Lojistik_Regresyon2.png)
+
 
 ### Run
 ```sh
