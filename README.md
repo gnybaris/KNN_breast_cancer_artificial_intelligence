@@ -51,7 +51,7 @@ $ from sklearn.metrics import accuracy_score
 $ from sklearn.model_selection import cross_val_score
 $ from sklearn.model_selection import train_test_split
 ```
-#$ ### 4 --> Malignant (Kötü Huylu Kanser Hücresi)
+#### 4 --> Malignant (Kötü Huylu Kanser Hücresi)
 #### 2 --> Benign (İyi Huylu Kanser Hücresi)
 ![](cancer-test2.png)
 
