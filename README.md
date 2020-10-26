@@ -20,6 +20,8 @@ KNN algorithms were proposed by T. M. Cover and P. E. Hart in 1967. The algorith
 
 KNN; It is one of the most popular machine learning algorithms because it is resistant to old, simple and noisy training data. However, it also has a disadvantage. For example, it requires a large amount of memory space when used for large data, since it stores all states while calculating distance.
 
+![](classification_knn.png)
+
 #### Steps of the KNN algorithm:
 ```sh
 $ First, the k parameter is determined. This parameter is the number of neighbors closest to a given point. For example: Let k = 2. In this case, classification will be made according to the closest 2 neighbors.
@@ -28,8 +30,6 @@ $ The nearest neighbors from the relevant distances are considered. It is assign
 $ The selected class is considered to be the class of the observation value expected to be estimated. In other words, the new data is labeled.
 ```
 ![](knn_adimlari.png)
-
-![](classification_knn.png)
 
 # To Run MATLab Logistic Regression
 ![](matlab_değerleri_Lojistik_Regresyon.png)
