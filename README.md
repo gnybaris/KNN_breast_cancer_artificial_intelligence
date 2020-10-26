@@ -2,7 +2,8 @@
 ![](uci_genomic.png) 
 
 # K-Nearest Neighbour Classification
- ![](Large14.jpg) The k-nearest neighborhood (KNN) algorithm is one of the easy-to-implement supervised learning algorithms. It is used in the solution of both classification and regression problems, and is used in industry to solve classification problems in industry.
+ ![](Large14.jpg) 
+The k-nearest neighborhood (KNN) algorithm is one of the easy-to-implement supervised learning algorithms. It is used in the solution of both classification and regression problems, and is used in industry to solve classification problems in industry.
 
 
 In pattern recognition, the K-Nearest Neighbor algorithm (K-NN) is a non-parametric method used
