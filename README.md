@@ -1,4 +1,5 @@
 # Breast cancer detection with KNN algorithm 
+![](Large14.jpg) [Fig 1.]
 
 # K-Nearest Neighbour Classification
 In pattern recognition, the K-Nearest Neighbor algorithm (K-NN) is a non-parametric method used
@@ -37,10 +38,11 @@ Apply simple majority of category
 ↓
 End
 ```
+![](classification_knn.png)
 
 # To Run MATLab Logistic Regression
 ![](matlab_değerleri_Lojistik_Regresyon.png)
-![](matlab_değerleri_Lojistik_Regresyon2.png)
+![](Lojistik_Regresyon2.png)
 
 ### Run
 ```sh
