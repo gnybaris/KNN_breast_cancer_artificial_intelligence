@@ -11,7 +11,7 @@ space. K-NN is a type of instance-based learning.
 In K-NN Classification, the output is a class membership. Classification is done by a majority vote of
 neighbours. If K = 1, then the class is single nearest neighbour [6]. 
 
-![](knn.png) [Fig 1.]
+![](knn.png)
 KNN algorithms were proposed by T. M. Cover and P. E. Hart in 1967. The algorithm is used by making use of data from a sample set whose classes are known. The distance of the new data to be included in the sample data set is calculated according to the existing data and k number of close neighborhoods are checked. Generally, 3 types of distance functions are used for distance calculations:
 "Euclidean" Distance
 Distance to "Manhattan"
@@ -20,26 +20,11 @@ Distance to "Manhattan"
 KNN; It is one of the most popular machine learning algorithms because it is resistant to old, simple and noisy training data. However, it also has a disadvantage. For example, it requires a large amount of memory space when used for large data, since it stores all states while calculating distance.
 
 #### Steps of the KNN algorithm:
+```sh
 - First, the k parameter is determined. This parameter is the number of neighbors closest to a given point. For example: Let k = 2. In this case, classification will be made according to the closest 2 neighbors.
 - The distance of the new data to be included in the sample data set is calculated one by one according to the existing data. With the help of the relevant distance functions.
 - The nearest neighbors from the relevant distances are considered. It is assigned to the class of k neighbors or neighbors according to the attribute values.
 - The selected class is considered to be the class of the observation value expected to be estimated. In other words, the new data is labeled.
-```sh
-Start
-↓
-Initialization, define the parameter
-↓
-Calculate the distance between the test sample and all the training samples.
-↓
-Sort the Distance
-↓
-Take K-nearest neighbour
-↓
-Gather the category of nearest neighbour
-↓
-Apply simple majority of category
-↓
-End
 ```
 ![](classification_knn.png)
 
